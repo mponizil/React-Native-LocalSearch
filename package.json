@@ -13,8 +13,8 @@
   ],
   "author": "Will McMahan",
   "license": "MIT",
-  "peerDependencies": {
-    "react-native": "0.8.0"
+  "devDependencies": {
+    "react-native": "0.8.0 || 0.13.x"
   },
   "repository": {
     "type": "git",
